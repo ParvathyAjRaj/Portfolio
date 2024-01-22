@@ -1,7 +1,7 @@
 import express from "express";
 
 const app = express();
-const port = 3000;
+const port = 80;
 
 //Render the home page "/" index.ejs
 app.get("/",(req,res) => {
