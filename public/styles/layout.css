@@ -20,10 +20,10 @@ i {
   padding: 0px;
 }
 #navbarSupportedContent {
-  /* overflow: hidden; */
+  overflow: hidden;
   position: relative;
 }
-#navbarSupportedContent ul {
+#navbarSupportedContent ul {  
   padding: 0px;
   margin: 0px;
 }
