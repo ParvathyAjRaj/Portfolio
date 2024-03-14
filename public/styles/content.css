@@ -44,7 +44,7 @@ p {
   border-radius: 50%;
 }
 
-.github{
+.github,.link{
   height:30px;
   width:30px;
   object-fit: cover;
